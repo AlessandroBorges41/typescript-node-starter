@@ -1,10 +1,6 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://fullcycle.com.br/wp-content/themes/fullcycle-blog/application/img/logo-fullcycle.png"/></a>
-</p>
-
 ## Descrição
 
-Projeto Back-end para se começar com TypeScript de forma produtiva.
+Projeto Back-end para inicar com TypeScript de forma produtiva.
 
 ## Motivação
 
@@ -41,10 +37,7 @@ Este pacote é uma forma produtiva de se começar com TypeScript com Node.js.
 * ```npm run prod``` - Levanta a aplicação JavaScript com Node compilada pelo npm run build.
 * ```npm run ts-node``` - Execute o ts-node. Ferramenta para executar o TypeScript com Node, é possível abrir um console e testar expressões como executar diretamente arquivos TypeScript
 
-## Apêndice
-
-No branch **using_webpack** há um exemplo de como desenvolver esta aplicação criando um front-end
-também com TypeScript. A configuração do front-end foi baseada no repositório [https://github.com/codeedu/typescript-starter](https://github.com/codeedu/typescript-starter).
+## Informações
 
 O frontend está embutido neste projeto, mas poderíamos também organizar o projeto em duas pastas:
 
@@ -53,7 +46,7 @@ O frontend está embutido neste projeto, mas poderíamos também organizar o pro
 - frontend
 ```
 
-### Rodar o projeto
+### Executando o projeto
 
 * ```npm run frontend-dev``` - Compila o TypeScript em modo desenvolvimento.
 * ```npm run frontend-watch``` - Compila o TypeScript em modo desenvolvimento usando modo watch.
